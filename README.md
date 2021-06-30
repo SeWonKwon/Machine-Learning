@@ -3,10 +3,15 @@
 # Machine-Learning-Agolithm
 
 ## 1. Linear Model
+1.
+
 
 # Shadowing
 
 # Machine_Learning_L
+
+1. L01_ML Concept
+2. 
 
 ## 출처
 
