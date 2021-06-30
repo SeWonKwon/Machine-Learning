@@ -1,7 +1,7 @@
 # Machine_Learning
 
 # Machine-Learning-Agolithm
-## Basic
+## 0. Basic
 1. [Pandas & Numpy](https://github.com/SeWonKwon/Pandas-Numpy)
 1. Spliting Data
 2. Preprocessing
