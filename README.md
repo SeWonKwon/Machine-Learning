@@ -1,6 +1,10 @@
 # Machine_Learning
 
 # Machine-Learning-Agolithm
+## Basic
+1. Train set
+2. Preprocessing
+3. Metrics
 
 ## 1. Linear Model
 1.
@@ -11,7 +15,8 @@
 # Machine_Learning_L
 
 1. L01_ML Concept
-2. 
+2. L02_ML Scikit_Learn from scratch
+3. 
 
 ## 출처
 
