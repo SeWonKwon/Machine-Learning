@@ -2,7 +2,7 @@
 
 # Machine-Learning-Agolithm
 ## Basic
-1. Train set
+1. Spliting Data
 2. Preprocessing
 3. Metrics
 
