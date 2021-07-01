@@ -3,12 +3,21 @@
 # Machine-Learning-Agolithm
 ## 0. Basic
 1. [Pandas & Numpy](https://github.com/SeWonKwon/Pandas-Numpy)
-1. Spliting Data
-2. Preprocessing
-3. Metrics
+2. [sklearn_Api]() : sklearn_Api 사용방법
+3. [Model Selection]() : Train_Test split, CrossValidation, GridSearchCV
+5. [Preprocessing](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L02_Data%20Preprocessing%2C%20Quality%2C%20Techinques.ipynb) 
+    - Data cleaning
+7. Metrics
 
-## 1. Linear Model
-1.
+## 1. Regression
+1. LinearRegression & Regulation
+2. LogisticRegression
+3. 
+
+## 2. Classification
+
+
+
 
 
 # Shadowing
