@@ -29,7 +29,7 @@
 
 1. L01_ML Concept
 2. L02_ML Scikit_Learn from scratch
-3. 
+3. L03_ML Linear Models (Regression)
 
 ## 출처
 
