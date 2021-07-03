@@ -1,6 +1,7 @@
 # Machine_Learning
 
-# Machine-Learning-Agolithm
+# Sklearn
+
 ## 0. Basic
 1. [Pandas & Numpy](https://github.com/SeWonKwon/Pandas-Numpy)
 
