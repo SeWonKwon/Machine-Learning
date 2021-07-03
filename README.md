@@ -3,14 +3,23 @@
 # Machine-Learning-Agolithm
 ## 0. Basic
 1. [Pandas & Numpy](https://github.com/SeWonKwon/Pandas-Numpy)
-2. [sklearn_Api]() : sklearn_Api 사용방법
-3. [Model Selection](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb) : Train_Test split, CrossValidation, GridSearchCV
+
+2. [sklearn_Api](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb) : sklearn_Api 사용방법
+
+3. [sklearn.Model Selection](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.model_selection): 
+    - Splitter Functions: [Train_Test split](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb)
+    - Splitter Classes: [KFold]()
+    - Hyper-parameter optimizers: [GridSearchCV](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb)
+    - Model validation: [CrossValidation](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb)
+
+
 5. [Preprocessing](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L02_Data%20Preprocessing%2C%20Quality%2C%20Techinques.ipynb) 
-    - [Data cleaning](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L03_Data%20Cleaning.ipynb)
-    - [Data Intergration](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L04_Data%20intergration.ipynb)
-    - [Data Reductions](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L05_Data%20Reduction.ipynb)
-    - [Data Transformation](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L06_Data%20Transformation.ipynb) : [StandardScaler,MinMaxScaler](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb)
-7. Metrics
+    - [Data cleaning](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L03_Data%20Cleaning.ipynb), [Data Intergration](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L04_Data%20intergration.ipynb), [Data Reductions](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L05_Data%20Reduction.ipynb), [Data Transformation](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L06_Data%20Transformation.ipynb) 
+    - [sklearn.preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html#)
+        - [StandardScaler,MinMaxScaler](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb)
+        - 
+7. [Metrics]()
+    - [sklearn.Metrics](https://scikit-learn.org/stable/modules/classes.html?highlight=metrics#module-sklearn.metrics)
 
 ## 1. Regression
 1. LinearRegression & Regulation
