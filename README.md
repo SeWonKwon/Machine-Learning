@@ -15,9 +15,11 @@
 ## 1. Regression
 1. LinearRegression & Regulation
 2. LogisticRegression
-3. 
+3. RegressionTree
 
-## 2. Classification
+## 2. SVM
+
+## 3. 
 
 
 
