@@ -18,8 +18,10 @@
     - [Data cleaning](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L03_Data%20Cleaning.ipynb), [Data Intergration](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L04_Data%20intergration.ipynb), [Data Reductions](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L05_Data%20Reduction.ipynb), [Data Transformation](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L06_Data%20Transformation.ipynb) 
     - [sklearn.preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html#)
         - [StandardScaler,MinMaxScaler](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb)
-        - 
-7. [Metrics]()
+
+    - [sklearn.Impute](https://scikit-learn.org/stable/modules/impute.html#)
+        - [Imputing missing values]()
+7. [Metrics](
     - [sklearn.Metrics](https://scikit-learn.org/stable/modules/classes.html?highlight=metrics#module-sklearn.metrics)
 
 ## 1. Regression
