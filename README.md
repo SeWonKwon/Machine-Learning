@@ -56,7 +56,7 @@
 4. L04_ML Logistic Regression
 5. L05_ML Support Vector Machines
 6. L06_ML KNN
-7. 
+7. L07_ML Naive Bayes Classification
 
 
 ## 출처
