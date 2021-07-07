@@ -3,13 +3,15 @@
 # Sklearn
 
 ## 0. Basic
-1. [Pandas & Numpy](https://github.com/SeWonKwon/Pandas-Numpy)
+1. [Pandas & Numpy](https://github.com/SeWonKwon/Pandas-Numpy) : EDA의 기초
+2. [데이타 시각화](https://github.com/SeWonKwon/Data_Visualization)
+3. [데이타 수집](https://github.com/SeWonKwon/Data_Collection)
 
 2. [sklearn_Api](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb) : sklearn_Api 사용방법
 
 3. [sklearn.Model Selection](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.model_selection): 
-    - Splitter Functions: [Train_Test split](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb)
-    - Splitter Classes: [KFold]()
+    - Splitter Functions: [Train_Test_split](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb)
+    - Splitter Classes: KFold
     - Hyper-parameter optimizers: [GridSearchCV](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb)
     - Model validation: [CrossValidation](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb)
 
@@ -17,21 +19,28 @@
 5. [Preprocessing](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L02_Data%20Preprocessing%2C%20Quality%2C%20Techinques.ipynb) 
     - [Data cleaning](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L03_Data%20Cleaning.ipynb), [Data Intergration](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L04_Data%20intergration.ipynb), [Data Reductions](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L05_Data%20Reduction.ipynb), [Data Transformation](https://github.com/SeWonKwon/Data_Analysis/blob/main/Data_Analysis_L/L06_Data%20Transformation.ipynb) 
     - [sklearn.preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html#)
-        - [StandardScaler,MinMaxScaler](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb)
+        - [Scaler](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/B04_ML_Preprocessing%20Scaler.ipynb)
+        - [Label Encoder](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/B03_ML_Preprocessing%20Label%20Encoder.ipynb)
 
     - [sklearn.Impute](https://scikit-learn.org/stable/modules/impute.html#)
-        - [Imputing missing values]()
-7. [Metrics](
+        - [Imputing missing values](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/B02_ML_Preprocessing%20Imputation.ipynb)
+7. [Metrics](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/B05_ML%20Metrics.ipynb)
     - [sklearn.Metrics](https://scikit-learn.org/stable/modules/classes.html?highlight=metrics#module-sklearn.metrics)
+    - [Which Metrics should I use for my Model ?](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/B06_ML%20Which%20Metrics%20should%20I%20use%20for%20my%20model.ipynb)
+
+
 
 ## 1. Regression
-1. LinearRegression & Regulation
-2. LogisticRegression
+1. [LinearRegression & Regulation by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L03_ML%20Linear%20Models%20(Regression).ipynb)
+2. [LogisticRegression by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L04_ML%20Logistic%20Regression.ipynb)
 3. RegressionTree
 
 ## 2. SVM
+1. [SVM by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L05_ML%20Support%20Vector%20Machines.ipynb)
 
-## 3. 
+## 3. KNN
+
+## 4.
 
 
 
@@ -42,8 +51,13 @@
 # Machine_Learning_L
 
 1. L01_ML Concept
-2. L02_ML Scikit_Learn from scratch
+2. L02_ML Sklearn_Learn from scratch
 3. L03_ML Linear Models (Regression)
+4. L04_ML Logistic Regression
+5. L05_ML Support Vector Machines
+6. L06_ML KNN
+7. 
+
 
 ## 출처
 
