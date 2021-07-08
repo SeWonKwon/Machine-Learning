@@ -39,8 +39,11 @@
 1. [SVM by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L05_ML%20Support%20Vector%20Machines.ipynb)
 
 ## 3. KNN
+1. [KNN by L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L06_ML%20KNN.ipynb)
+2. [Pima Indian Diabetes](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Pima%20Indians%20Diabetes/03_Pima%20Indian%20Diabates_%20KNN.ipynb)
 
-## 4.
+## 4. Naive Bayes Classification
+1. [NB ClF by L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L07_ML%20Naive%20Bayes%20Classification.ipynb)
 
 
 
