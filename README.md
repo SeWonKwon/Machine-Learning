@@ -49,6 +49,8 @@
 ## 4. Naive Bayes Classification
 1. [NB ClF by L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L07_ML%20Naive%20Bayes%20Classification.ipynb)
 
+## 5. Ensemble
+1.[Ensemble_by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L09_ML%20Ensemble.ipynb)
 
 
 
@@ -65,6 +67,7 @@
 6. L06_ML KNN
 7. L07_ML Naive Bayes Classification
 8. L08_ML Decision Tree
+9. L09_ML Ensemble
 
 
 
