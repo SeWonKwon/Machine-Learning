@@ -35,6 +35,10 @@
 2. [LogisticRegression by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L04_ML%20Logistic%20Regression.ipynb)
 3. RegressionTree
 
+
+## 2. Decision Tree
+1. [Decision Tree by L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L08_ML%20Decision%20Tree.ipynb)
+
 ## 2. SVM
 1. [SVM by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L05_ML%20Support%20Vector%20Machines.ipynb)
 
@@ -60,6 +64,9 @@
 5. L05_ML Support Vector Machines
 6. L06_ML KNN
 7. L07_ML Naive Bayes Classification
+8. L08_ML Decision Tree
+
+
 
 
 ## 출처
