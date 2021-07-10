@@ -72,6 +72,7 @@
 9. L09_ML Ensemble
 10. L10_ML XGBoost & LightGBM
 11. L11_ML Clustering
+12. L12_ML Manifold Learning
 
 
 
