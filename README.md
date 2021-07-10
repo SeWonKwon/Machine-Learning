@@ -50,7 +50,7 @@
 1. [NB CLF by L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L07_ML%20Naive%20Bayes%20Classification.ipynb)
 
 ## 5. Ensemble
-1.[Ensemble_by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L09_ML%20Ensemble.ipynb)
+1. [Ensemble_by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L09_ML%20Ensemble.ipynb)
 
 ## 6. Boost
 1. [XGBoost, LightGBM by L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L10_ML%20XGBoost%20%26%20LightGBM.ipynb)
