@@ -52,10 +52,11 @@
 ## 5. Ensemble
 1.[Ensemble_by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L09_ML%20Ensemble.ipynb)
 
+## 6. Boost
+1. [XGBoost, LightGBM by L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L10_ML%20XGBoost%20%26%20LightGBM.ipynb)
 
 
 
-# Shadowing
 
 # Machine_Learning_L
 
@@ -68,11 +69,12 @@
 7. L07_ML Naive Bayes Classification
 8. L08_ML Decision Tree
 9. L09_ML Ensemble
+10. L10_ML XGBoost & LightGBM
 
 
 
 
-## 출처
+# 출처
 
 * [이수안컴퓨터](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr)
 * [파이썬 머신러닝 완벽 가이드, 권철민](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=328045193&gclid=CjwKCAjwrPCGBhALEiwAUl9X0xLhnkBbNO07CZl6KsRa9V6i1-tAr-SubjZxrGN-XdVNGCVlGyGk8hoCBVoQAvD_BwE)
