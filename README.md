@@ -28,16 +28,28 @@
     - [sklearn.Metrics](https://scikit-learn.org/stable/modules/classes.html?highlight=metrics#module-sklearn.metrics)
     - [Which Metrics should I use for my Model ?](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/B06_ML%20Which%20Metrics%20should%20I%20use%20for%20my%20model.ipynb)
 
+# By purpose
+
+## [Classification](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/C01_ML%20Classification%20Overview.ipynb)
+1. [Decision Tree](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/C02_ML%20Decision%20Tree.ipynb)
+2. 
 
 
+
+
+
+
+# By algorithm
 ## 1. Regression
 1. [LinearRegression & Regulation by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L03_ML%20Linear%20Models%20(Regression).ipynb)
 2. [LogisticRegression by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L04_ML%20Logistic%20Regression.ipynb)
 3. RegressionTree
 
 
-## 2. Decision Tree
+## 2. [Decision Tree](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/C02_ML%20Decision%20Tree.ipynb)
+
 1. [Decision Tree by L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L08_ML%20Decision%20Tree.ipynb)
+
 
 ## 2. SVM
 1. [SVM by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L05_ML%20Support%20Vector%20Machines.ipynb)
