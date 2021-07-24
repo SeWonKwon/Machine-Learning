@@ -50,22 +50,22 @@
 
 1. [Decision Tree by L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L08_ML%20Decision%20Tree.ipynb)
 
+## 3. [Ensemble](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/C03_ML%20Ensemble.ipynb)
+1. [Ensemble_by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L09_ML%20Ensemble.ipynb)
+2. [XGBoost, LightGBM by L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L10_ML%20XGBoost%20%26%20LightGBM.ipynb)
 
-## 2. SVM
+
+## 4. SVM
 1. [SVM by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L05_ML%20Support%20Vector%20Machines.ipynb)
 
-## 3. KNN
+## 5. KNN
 1. [KNN by L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L06_ML%20KNN.ipynb)
 2. [Pima Indian Diabetes](https://github.com/SeWonKwon/ML_training/blob/main/Kaggle/Pima%20Indians%20Diabetes/03_Pima%20Indian%20Diabates_%20KNN.ipynb)
 
-## 4. Naive Bayes Classification
+## 6. Naive Bayes Classification
 1. [NB CLF by L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L07_ML%20Naive%20Bayes%20Classification.ipynb)
 
-## 5. Ensemble
-1. [Ensemble_by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L09_ML%20Ensemble.ipynb)
 
-## 6. Boost
-1. [XGBoost, LightGBM by L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L10_ML%20XGBoost%20%26%20LightGBM.ipynb)
 
 ## 7. Clustering
 1. [Clustering by L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L11_ML%20Clustering.ipynb)
