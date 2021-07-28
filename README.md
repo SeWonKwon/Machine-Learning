@@ -11,7 +11,7 @@
 
 3. [sklearn.Model Selection](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.model_selection): 
     - Splitter Functions: [Train_Test_split](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb)
-    - Splitter Classes: KFold
+    - Splitter Classes: [KFold]()
     - Hyper-parameter optimizers: [GridSearchCV](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb)
     - Model validation: [CrossValidation](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L02_ML%20Scikit_Learn%20from%20scratch.ipynb)
 
