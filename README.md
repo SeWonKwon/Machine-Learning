@@ -32,18 +32,18 @@
 
 ## [Classification](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/C01_ML%20Classification%20Overview.ipynb)
 1. [Decision Tree](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/C02_ML%20Decision%20Tree.ipynb)
-2. 
+2. [Ensemble](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/C03_ML%20Ensemble.ipynb)
 
-
+## [Regression](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/D01_Regression.ipynb)
 
 
 
 
 # By algorithm
-## 1. [Regression]()
+## 1. [Regression](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/D01_Regression.ipynb)
 1. [LinearRegression & Regulation by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L03_ML%20Linear%20Models%20(Regression).ipynb)
 2. [LogisticRegression by_L](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning_L/L04_ML%20Logistic%20Regression.ipynb)
-3. [RegressionTree]()
+3. [RegressionTree](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/D01_Regression.ipynb)
 
 
 ## 2. [Decision Tree](https://github.com/SeWonKwon/Machine_Learning/blob/main/Machine_Learning/C02_ML%20Decision%20Tree.ipynb)
